@@ -13,3 +13,4 @@ int main() {
         cout << arr[i] << " ";
     }
 }
+//space complexity : extra space:o(1),total o(n)
